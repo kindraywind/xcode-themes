@@ -7,4 +7,10 @@ Dark color theme for Xcode inspired by Sublime's Monokai.
 ### Taskworld Light Theme
 ![twlighttheme](https://cloud.githubusercontent.com/assets/500289/6978728/beeff408-da02-11e4-98cf-f50b2d0924e1.png)
 
-(Input mono narrow font.)
+(best with InputMonoNarrow-Light font http://input.fontbureau.com/)
+
+
+## Installation
+- Copy the .dvtcolortheme to ``` ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ ```.
+- Restart Xcode.
+- done :]
