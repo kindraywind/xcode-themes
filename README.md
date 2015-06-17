@@ -11,6 +11,10 @@ Dark color theme for Xcode inspired by Sublime's Monokai.
 
 
 ## Installation
+
+via [Alcatraz](https://github.com/supermarin/Alcatraz)
+
+or manually install
 - Copy the .dvtcolortheme to ``` ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ ```.
 - Restart Xcode.
 - done :]
